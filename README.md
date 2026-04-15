@@ -9,3 +9,5 @@ Viewing -> Camera1 Module (1080p) -> Bluetooth -> Sent to web app on Phone
 Web App -> Getting in position mode or capturing mode
 
 Flight Module -> Motor
+
+Flight Controller -> IMU, GPS, Compass
