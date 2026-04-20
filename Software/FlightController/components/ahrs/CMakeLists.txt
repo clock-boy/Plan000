@@ -1,5 +1,5 @@
 idf_component_register(
-    SRCS "main.cpp"
+    SRCS "ahrs.cpp"
     INCLUDE_DIRS "."
-    REQUIRES imu ahrs
+    REQUIRES imu
 )

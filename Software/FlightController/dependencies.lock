@@ -61,6 +61,6 @@ dependencies:
     version: 5.5.3
 direct_dependencies:
 - espp/filters
-manifest_hash: 49a4dc002f449d1eb9be358b322fff70050f3d5b6664fc759cd638c7ea77c944
+manifest_hash: bb7acbf4eb30522baf90494cd70eff4d828adb4767f2c0a89cadf84780642053
 target: esp32
 version: 2.0.0
