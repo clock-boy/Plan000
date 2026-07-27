@@ -1,5 +1,6 @@
+# main/CMakeLists.txt
 idf_component_register(
     SRCS "main.c"
     INCLUDE_DIRS "."
-    REQUIRES
+    REQUIRES vl53l1x_uld driver
 )
